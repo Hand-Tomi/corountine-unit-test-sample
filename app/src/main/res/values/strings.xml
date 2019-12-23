@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestSample</string>
+    <string name="insufficient_amount_message">%1d円が不足です。</string>
+    <string name="sufficient_amount_message">%1d円が残りました。</string>
+    <string name="exact_amount_message">丁度です。</string>
+</resources>
